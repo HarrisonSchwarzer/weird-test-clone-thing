@@ -1,3 +1,6 @@
+# THIS IS JUST A STRAIGHT RIP OF [THIS](https://github.com/Rapptz/discord.py) REPO.
+I'm just copying this 'cause it's tiny
+
 discord.py
 ==========
 
